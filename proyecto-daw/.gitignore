@@ -23,3 +23,8 @@ docs/tmp/
 
 # Ignorar carpetas ocultas del sistema
 .*.swp
+Contenido recomendado:
+
+/vendor/
+/.phpdoc/
+composer.lock
