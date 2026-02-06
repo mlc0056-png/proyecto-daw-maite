@@ -1,0 +1,25 @@
+# Archivos de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Node.js / npm (si llegas a usarlo)
+node_modules/
+
+# Archivos de configuración sensible
+php/conexion.php
+.env
+*.key
+*.pem
+
+# Directorios de documentación temporal
+docs/tmp/
+
+# Archivos de compilación o cache
+*.class
+*.cache
+*.swp
+
+# Ignorar carpetas ocultas del sistema
+.*.swp
